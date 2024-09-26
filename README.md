@@ -1,1 +1,1 @@
-# pinterest_demo
+# Pinterest-Clone
